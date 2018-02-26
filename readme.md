@@ -9,6 +9,7 @@ Technologies used:
 - Sass
 - Jest for testing actions, reducers etc.
 - Enzyme for testing components
+
 It also includes:
 - uuid plugin for generating random id (used as keys)
 - moment.js for managing time intervals (used for datepicker)
