@@ -1,4 +1,4 @@
-Expensify App
+Expensify App (Heroku + Firebase)
 
 By using Expensify App you can keep track of all your expenses. (This is test project and it's not completed yet)
 Technologies used:
